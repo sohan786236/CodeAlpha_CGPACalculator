@@ -53,9 +53,3 @@ Run the program:
 
 ./CGPACalculator
 
-## Project Structure
-
-CodeAlpha_CGPACalculator/
-
-├── CGPACalculator.cpp
-└── README.md
